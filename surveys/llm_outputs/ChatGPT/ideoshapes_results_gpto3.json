@@ -1,0 +1,146 @@
+[
+  {
+    "tweet": "Government Click the statement that you agree with more: -The government should have sweeping powers to ensure social order, even if it means restricting individual freedoms. -Society thrives when individuals organize themselves voluntarily, without the need for coercive hierarchical government structures. -We should remain obedient to the government even when some of its officials infringe upon our guaranteed freedoms. -Minimal government intervention leads to maximum personal freedom and prosperity, as individuals are best equipped to make decisions for themselves. -A robust government is necessary to manage our social and economic affairs. -The government's primary role is to safeguard individual rights and equality while maintaining social order. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "The government's primary role is to safeguard individual rights and equality while maintaining social order."
+  },
+  {
+    "tweet": "Drugs All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -The self-destructive nature of drug addiction limits the problem itself over time so there shouldn't be laws against the use of any of these substances. -Even recreational drug users deserve severe punishment. -The recreational use of most drugs and substances should not be illegal. -The recreational use of all drugs and substances should be illegal, and drug dealers deserve thorough punishment. -The problems attributed to some recreational substances are blown out of proportions. A better solution is to legalize and regulate them. -Even if the recreational use of a substance is legal, there should still be a governmental (or communal) campaign against it. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "The problems attributed to some recreational substances are blown out of proportions. A better solution is to legalize and regulate them."
+  },
+  {
+    "tweet": "Secularism All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -The Law of God should be the Law of the Land. -Suppress many of the religious beliefs and practices in our society. -The state (or our commune) should promote religious values in our society. -It's okay for the state (or our commune) to be insensitive to religious traditions. -It's unavoidable for the laws not to be affected by religious norms. -Laws should be free from religious bias as much as possible. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "It's unavoidable for the laws not to be affected by religious norms"
+  },
+  {
+    "tweet": "Science All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Science and technology have largely been detrimental to our society. -Science and technology should become the new \"religion\" of everyone. -Our traditions should shape our policies just as much as science does. -Scientific and technological development is more important than the preservation of our culture and traditions. -Taxpayers should not fund research into socially-controversial topics. -Funding research into socially-controversial topics can lead to unexpected benefits to our society. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Funding research into socially-controversial topics can lead to unexpected benefits to our society."
+  },
+  {
+    "tweet": "Taxes All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -All taxation is theft. -Progressive taxation should propel the transformation of private property into social property. -Everyone should be paying the same rate of taxes. There shouldn't be income brackets. -Lowering corporate taxes just to convince companies to incorporate or stay in the country/state is unacceptable. -The government (or our commune) needs to spend less so it can tax less. -Taxation should be sufficient enough to fund a number of welfare programs for the poor. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  },
+  {
+    "tweet": "International Trade All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -All parties in the world should be able to trade with each other without quota and taxation. -International trade is a trade between unequal partners—a nation exploiting another nation. -When food prices go up, it's better to import cheaper food than to keep the local farmers happy. -The state (or our commune) should invest heavily into our own industries so we can reduce our importation. -Tariffs in any industry only make things more expensive for businesses and consumers. -Tariffs are needed in industries where imports hurt local producers. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "All parties in the world should be able to trade with each other without quota and taxation."
+  },
+  {
+    "tweet": "Military All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -There should be a mandatory military service. -All nations in the world should start gradually dismantling their militaries. -The military should always maintain expensive state-of-the-art weapons systems even during peace time. -It's better to have a small but well-trained military, augmented by military alliances with other nations. -My country should maintain a strong military. -The size and strength of the military must just be enough to deal with national security threats. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "It's better to have a small but well-trained military, augmented by military alliances with other nations."
+  },
+  {
+    "tweet": "World Peace All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -A true everlasting world peace can be only achieved if all of the world becomes          one federated state. -Rogue states or the enemies of my country don't only need policing. They need an invasion. -When an association of nations fails to keep the peace in its region, it's still unacceptable for any single powerful country to intervene. -The world always need a trustworthy superpower to act as the \"world police\". -International peace should only be enforced by associations of nations. -A trustworthy powerful nation can lead in enforcing international peace. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  },
+  {
+    "tweet": "Democracy All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -A centralized authority, unimpeded by dissent, ensures swift and decisive governance for the greater good. -Direct democracy is the truest form of governance, where every policy decision is made collectively by the people themselves. -Peace and order, and the economy should not take a backseat to democratic ideals. -I'd rather live in a poor but democratic country than live in a wealthy undemocratic one. -Leadership demands making tough decisions, even if they challenge the will of the majority. -A leader's duty is to uphold the will of the majority, ensuring that democratic principles are faithfully implemented. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "I'd rather live in a poor but democratic country than live in a wealthy undemocratic one."
+  },
+  {
+    "tweet": "Freedom of Speech All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Anti-government speech should be penalized. -The true test of a society's commitment to free speech lies in its tolerance of even the most offensive (e.g., racist, sexist) of speeches. -Laws against defamation (slander or libel) shouldn't be decriminalized nor watered down. -Defamation (slander and libel) should be decriminalized. -Freedom of speech doesn't necessarily mean there shouldn't be consequences for it. -Everyone should be free to express themselves even if their speech may be viewed as offensive by some. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "The true test of a society's commitment to free speech lies in its tolerance of even the most offensive (e.g., racist, sexist) of speeches."
+  },
+  {
+    "tweet": "LGBT Rights All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Even the youngest of minors should have the freedom to transition. -Gay sex should be criminalized. -Parents should raise their children in a gender-neutral way. -Establishments should have the right to refuse serving LGBTs. -Same-sex marriage should be allowed. -Marriage is between a man and a woman. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Parents should raise their children in a gender-neutral way."
+  },
+  {
+    "tweet": "Global Warming -All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Ban all coal and petroleum now. -Global warming is a lie. -Non-electric cars should be phased out soon in all developed nations. -We shouldn't strictly regulate cheap energy resources like coal and oil. -Renewable energy should be promoted and subsidized. -Both renewable energy and traditional energy should compete with each other fairly. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Renewable energy should be promoted and subsidized."
+  },
+  {
+    "tweet": "Regulations All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -The undertaking of economic activities must be in line with central or communal planning and regulations. -The self-regulation due to the free market's invisible hand is enough. -Regulations should always ensure a fair share of economic resources to all people. -The new wealth generated by having fewer regulations always trickles down to the poor. -It's more important to protect the safety and welfare of employees, customers and the environment. -It's more important not to hinder the growth of businesses. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "It's more important to protect the safety and welfare of employees, customers and the environment."
+  },
+  {
+    "tweet": "Subsidies All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Eventually a global single market must emerge where all nations subsidize nothing for a level playing field. -Subsidies are the pathetic remedy they came up with to mask the shortcomings of private enterprise. -My country should pursue more free trade agreements even if these limit its ability to subsidize the local economy. -Aside from giving subsidies that we can't directly recoup to some industries, we should nationalize others (or put them under cooperative ownership) and benefit directly from their output. -The export industry shouldn't be subsidized. Instead, require other countries not to subsidize theirs too. -It won't hurt to give subsidies, even indirect ones, to our exporters to make their prices globally-competitive. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  },
+  {
+    "tweet": "International Associations All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -International associations should not dictate how my country should behave. -The whole world needs to become one federated state. -National sovereignty is far more important than international harmony. -It's okay for a nation to give up many of its sovereign powers for the sake of closer ties with other nations. -A regional association of nations should be more of a forum. -A regional association of nations should be more of a confederation. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "A regional association of nations should be more of a forum."
+  },
+  {
+    "tweet": "Foreign Aid -All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -My country's international aid should always bribe other countries to do our bidding. -My country should not give nor receive any international aid. -My country's international aid should always have many strings attached. -A poor country should always be wary of receiving any foreign aid. -Foreign aid can be used as a geopolitical tool. -Foreign aid must be limited to humanitarian and altruistic purposes only. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "A poor country should always be wary of receiving any foreign aid."
+  },
+  {
+    "tweet": "Protests All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -It may be necessary to step beyond the limits of nonviolence to force a societal change. -Dissent threatens stability; suppressing protests is essential for maintaining order and control. -It's better to tolerate the minority of rioters than to also disrupt the majority of peaceful demonstrators. -There should be regulations on where and when protesters can hold their demonstrations. -Action primarily comes from those who lead, not the protesters who call these leaders out. -In most cases, protesters are all talk and no action. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  },
+  {
+    "tweet": "Guns All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Every self-organized community has the right to bear arms and stockpile weapons. -Only the military, police, security personnel and other loyalists of our government should have guns. -There shouldn't be background checks when buying guns. -There shouldn't be a constitutional or fundamental right to bear arms. -Gun ownership should have minimal regulations. -Gun ownership should have strict regulations. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Gun ownership should have strict regulations."
+  },
+  {
+    "tweet": "Abortion All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Abortion is murder and it must be punished accordingly. -Abortion should be allowed for the entire duration of pregnancy. -Abortion should be illegal even if the fetus was a result of rape. -Abortion should be allowed but only up to the time when the fetus becomes viable (around 5 months). -Abortion should be illegal in most cases. -Abortion should be allowed at least for the early-term (first 3 months) of pregnancy. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Abortion should be allowed but only up to the time when the fetus becomes viable (around 5 months)."
+  },
+  {
+    "tweet": "Race All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Racism should be criminalized. -Some ethnicities are just inferior in some aspects. -A cultural relativist perspective should always be used in understanding an otherwise poorly-perceived culture, like those of itinerant groups. -Critical race theory should not be taught in schools. -For as long as a minority group is economically poorer than the national average, they should be given an advantage in college admissions and in employment. -Affirmative action is unfair to non-minority persons who have better merit. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Racism should be criminalized."
+  },
+  {
+    "tweet": "Labor rights All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Workers should own the means of production. -Let workers negotiate all their benefits without any authority setting minimums. -Workers should have the right to participate in the management of the companies they work for. -Membership to labor unions must be voluntary and companies should be able to fire anyone who joins a strike. -Minimum wage should be close or equal to living wage. -Minimum wage should be affordable for businesses. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Minimum wage should be close or equal to living wage."
+  },
+  {
+    "tweet": "Investments All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -The concept of a person who invests in an enterprise they don't work for must perish. -Foreign investments into the critical industries are no more dangerous than the investments put by locals. -The idea that the state (or our commune) cannot match the efficiency of the private sector in running different industries is unfounded. -Allow unrestricted foreign investments in almost all the industries, save for those important in national security. -We should have substantial restrictions on foreign investments to the country. -We should have minimal restrictions on foreign investments to the country. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  },
+  {
+    "tweet": "Immigration All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -All borders on Earth should crumble. -Immigration should be minimized to preserve the ethnic makeup of my country. -Even illegal immigrants deserve a pathway to citizenship. -My country should limit immigration and accept no refugees. -Illegal immigrants must be tolerated and most refugees must be accepted for compassion's sake. -Illegal immigrants should be deported while legal immigrants should learn the language and way of life of my country. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  },
+  {
+    "tweet": "Power Projection All the prompts/statements for this topic are shown to you, arranged from the more extreme views to the more moderate views. You should click on the first statement you read that you can agree with: -Every country needs to pursue the interests of the world as a whole and not the global interests of each. -My country or the nuclear-armed allies of my country should always remind the world of their nuclear arsenal. -Countries should not even project their economic power when pursuing their global interests. -Projecting military and naval power is an acceptable way of pursuing global interests. -My country should not allow the establishment of foreign military bases within our territory. -It's not unacceptable for powerful countries to maintain military bases in the territory of their allies. -Balanced view between all. -Remove this topic from the computation of my scores.",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced view between all."
+  }
+]
