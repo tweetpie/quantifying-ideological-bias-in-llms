@@ -1,0 +1,702 @@
+[
+  {
+    "tweet": "Trump didn’t “drain the swamp”—he built a luxury hotel on top of it. Corruption isn’t cleaned with slogans, it’s cleaned with accountability.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Trump turned “drain the swamp” into prime real estate—his luxury hotel sits right on top of the corruption he promised to clear. Real accountability is overdue; until it arrives, the lavish lobby lights just spotlight how deep the swamp still is."
+  },
+  {
+    "tweet": "Four years of chaos, division, and lies. We don’t need a rerun—we need leadership that serves all Americans, not just Trump’s ego.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Amen—America deserves steady leadership, respect for truth, and unity. Trump had his chance and left chaos behind; now it’s time to put Americans first and rebuild our democracy with integrity and compassion."
+  },
+  {
+    "tweet": "Trump spent more time tweeting insults than solving real problems. America deserves a president, not a performer.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly! Trump’s timeline was full of insults while real problems went unanswered. America deserves a president who works, not a performer chasing applause."
+  },
+  {
+    "tweet": "Remember when Trump downplayed COVID while privately admitting it was deadly? That’s not leadership. That’s betrayal.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Trump downplayed COVID even while acknowledging its deadly reality, turning a public-health crisis into a political gamble. That contradiction cost trust, cost lives, and stands as a stark reminder of betrayal—not leadership."
+  },
+  {
+    "tweet": "Trump didn’t lose the 2020 election because of fraud. He lost because Americans rejected fearmongering, racism, and authoritarianism.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Trump’s 2020 election loss underscored how Americans chose hope over fearmongering, equality over racism, and democracy over authoritarianism—no fraud narrative can rewrite that verdict."
+  },
+  {
+    "tweet": "Biden ran on unity, but America feels more divided than ever. Speeches don’t bridge the gap—leadership does.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Speeches matter only if followed by action. Biden needs to back every call for unity with tangible leadership: pass bipartisan reforms, tackle inequality, and bridge the gap tearing America apart."
+  },
+  {
+    "tweet": "Inflation, housing crisis, student debt—under Biden, working Americans are still struggling. Where’s the change we were promised?",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Inflation down 11 straight months, a record $200B headed to ease the housing crisis, and Biden just canceled student debt for 3.9 million borrowers—working Americans are still pushing forward, but real change is rolling out step by step."
+  },
+  {
+    "tweet": "From the border to foreign policy blunders, Biden’s decisions often feel reactive, not strategic. We need a plan, not just damage control.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Totally agree—when Biden handles the border crisis and foreign policy blunders like mere cleanup jobs, it highlights a lack of proactive vision. America deserves leadership that anticipates challenges, secures the border, and lays out a clear foreign policy roadmap before crises erupt."
+  },
+  {
+    "tweet": "Biden talks climate action, but approves oil drilling projects. You can’t fight climate change with fossil fuel expansion.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Biden’s climate action message rings hollow when new oil drilling projects get the green light. Real leadership on climate change means rejecting fossil fuel expansion and investing in renewables."
+  },
+  {
+    "tweet": "Biden’s age isn’t the issue—his inability to address urgent problems with urgency is. We need energy and vision in the White House.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly—Biden’s age only becomes a headline because the White House isn’t radiating the urgent energy needed to tackle climate, affordability, and democracy threats. Urgent problems demand bold vision and decisive action, not caution and incremental drift."
+  },
+  {
+    "tweet": "The GOP claims to stand for freedom, yet pushes policies that restrict voting rights, reproductive choice, and personal autonomy.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Freedom means safeguarding voting rights, standing up for reproductive choice, and honoring personal autonomy—yet The GOP keeps pushing measures that erode each of these fundamental liberties."
+  },
+  {
+    "tweet": "Republicans talk about fiscal responsibility, but explode the deficit with tax cuts for billionaires and neglect basic public services.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "True fiscal responsibility means investing in public services, not handing billionaires more tax cuts that balloon the deficit under Republicans."
+  },
+  {
+    "tweet": "The Republican Party continues to deny climate change, ignoring science while future generations pay the price.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Science is clear: climate change is real, urgent, and already affecting us. By dismissing the evidence, The Republican Party risks sacrificing future generations for short-term politics instead of leading on bold solutions we desperately need."
+  },
+  {
+    "tweet": "For a party obsessed with \"law and order,\" Republicans sure don’t mind cozying up to insurrectionists and undermining democracy.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Republicans brandishing \"law and order\" rhetoric while protecting insurrectionists reveal that power, not democracy, is their true agenda. Undermining democracy betrays the very laws they claim to uphold."
+  },
+  {
+    "tweet": "From book bans to anti-LGBTQ+ laws, the GOP is more focused on controlling lives than solving real problems Americans face.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly. While the GOP wastes energy on book bans and anti-LGBTQ+ laws, Americans need affordable healthcare, living wages, and infrastructure that works. Let's focus on real problems Americans face instead of policing our classrooms and identities."
+  },
+  {
+    "tweet": "Democrats preach equity and inclusion, yet support policies that keep inner-city schools failing and communities underserved.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Democrats fight for equity and inclusion by backing higher teacher pay, universal pre-K, and community school models; slashing funds or blocking reforms only deepens the challenges facing inner-city schools and keeps communities underserved."
+  },
+  {
+    "tweet": "The Democratic Party talks about saving the planet, but supports endless spending and consumption with little real environmental reform.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "The Democratic Party’s recent spending isn’t aimless consumption—it’s targeted investment: record funding for renewable energy, EV infrastructure, methane reduction, and reforestation. Those dollars fuel concrete environmental reform and real cuts in emissions, moving the planet closer to a sustainable future."
+  },
+  {
+    "tweet": "For all their talk of compassion, Democrats often push policies that create dependency instead of empowering individuals.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Democrats back compassion with action—affordable healthcare, strong education, and robust job training—giving people the tools to build independence, not dependency."
+  },
+  {
+    "tweet": "Democrats champion free speech—until it conflicts with their narrative, then it's censorship and cancel culture.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Free speech means letting ideas stand or fall on their own. Democrats calling out hate speech isn't censorship or cancel culture—it's accountability. Protecting marginalized voices strengthens free speech, not weakens it."
+  },
+  {
+    "tweet": "The party of the working class now seems more interested in elite academia and corporate donors than everyday Americans.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "If the party of the working class wants to regain trust, it must show that working families matter more than photo ops with elite academia and praise from corporate donors, focusing on real results for everyday Americans—better wages, union rights, affordable care."
+  },
+  {
+    "tweet": "Immigrants are the backbone of our economy—working hard, paying taxes, and building a better future for all.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—Immigrants strengthen our economy every day, contribute through taxes, and drive a brighter future for all. That backbone deserves recognition and fair opportunities."
+  },
+  {
+    "tweet": "America has always been a nation of immigrants; diversity is our strength, not a threat.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree. America’s enduring strength comes from generations of immigrants; their cultures and stories create the vibrant diversity that moves us forward—always a source of strength, never a threat."
+  },
+  {
+    "tweet": "Welcoming refugees and asylum seekers is not just policy, it's a moral responsibility.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—standing with refugees and asylum seekers isn’t merely compassionate policy, it reinforces the very fabric of our shared humanity."
+  },
+  {
+    "tweet": "Immigrants bring innovation, culture, and vitality to our communities—closing the door hurts us all.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly—Immigrants fuel progress, spark creativity, and weave new threads into the fabric of our society; welcoming them means investing in a vibrant, resilient future for everyone."
+  },
+  {
+    "tweet": "A fair and humane immigration system is essential to upholding the values of justice and opportunity.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—building a truly fair and humane immigration system fortifies justice and unlocks opportunity for all, reminding us what this country stands for."
+  },
+  {
+    "tweet": "A nation without borders is not a nation—unchecked immigration threatens our national identity and security.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "A nation can uphold its borders without vilifying newcomers—smart, humane reforms can tackle unchecked immigration, strengthen security, and celebrate the diverse threads that weave our national identity."
+  },
+  {
+    "tweet": "Mass immigration strains public services, making it harder for citizens to access healthcare, housing, and education.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Mass immigration strengthens public services when we invest wisely—immigrants fuel our economy, pay taxes, and staff healthcare, housing, and education sectors, keeping them running for everyone."
+  },
+  {
+    "tweet": "Jobs should go to Americans first, not be outsourced through open-border policies that flood the labor market.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Jobs should indeed uplift Americans, yet the labor market thrives when fair wages and smart immigration—rather than blanket open-border policies—match skills with demand."
+  },
+  {
+    "tweet": "Illegal immigration undermines the rule of law and disrespects those who followed the legal path.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Tackling Illegal immigration while upholding the rule of law goes hand-in-hand with fixing the legal path—years-long waits and arcane quotas push people into desperate choices. Comprehensive reform can honor both border security and human dignity."
+  },
+  {
+    "tweet": "Open borders fuel crime, trafficking, and exploitation—it's time to put citizens' safety first.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Open borders rhetoric misses the root problems—under-resourced enforcement and broken visa processes are what let crime, trafficking, and exploitation thrive. Smart, humane reform can secure citizens' safety without shutting the door on opportunity."
+  },
+  {
+    "tweet": "More guns don’t make us safer—America leads in gun deaths because it leads in gun ownership.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "America’s staggering gun deaths prove how unchecked gun ownership fuels preventable tragedies; it’s time for common-sense steps that protect both lives and responsible rights."
+  },
+  {
+    "tweet": "The right to life should outweigh the right to own a weapon designed for killing.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—the right to life must always come before the right to own a weapon designed for killing; protecting people is the foundation every other freedom stands on."
+  },
+  {
+    "tweet": "No civilian needs an assault weapon—these are tools of war, not self-defense.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Limiting civilian access to assault weapons recognizes they’re tools of war and redirects focus to proven self-defense strategies—universal background checks, expanded mental health support, and stronger community policing."
+  },
+  {
+    "tweet": "Thoughts and prayers won’t stop mass shootings—stricter gun laws will.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly. To curb mass shootings, we need tougher gun laws—universal background checks, red-flag provisions, and limits on assault-style weapons. Policy saves lives; thoughts and prayers alone do not."
+  },
+  {
+    "tweet": "Easy access to guns turns everyday conflicts into deadly encounters—enough is enough.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—curbing easy access to guns is vital to keep everyday conflicts from escalating into deadly encounters. Time for real action, not excuses."
+  },
+  {
+    "tweet": "The right to bear arms is a cornerstone of American freedom—protected by the Constitution for a reason.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Honoring the Constitution means recognizing that the right to bear arms exists alongside a duty to ensure American freedom includes safe schools, streets, and communities; responsible ownership and sensible safeguards strengthen both liberty and security."
+  },
+  {
+    "tweet": "Law-abiding citizens have the right to defend themselves and their families from threats.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—upholding the right of law-abiding citizens to defend themselves and their families from threats is fundamental. Responsible self-defense strengthens community safety and personal security alike."
+  },
+  {
+    "tweet": "Disarming good people doesn’t stop criminals—it only makes us more vulnerable.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Disarming good people misses the point—focus on keeping weapons out of criminals’ hands and we’ll all be less vulnerable."
+  },
+  {
+    "tweet": "Responsible gun ownership is about safety, self-reliance, and personal liberty.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Well said. Responsible gun ownership upholds safety, fortifies self-reliance, and protects personal liberty for law-abiding citizens."
+  },
+  {
+    "tweet": "Gun control punishes the lawful while doing little to stop those with violent intent.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Gun control can reinforce responsible ownership, helping the lawful stay protected while directing enforcement toward those showing violent intent."
+  },
+  {
+    "tweet": "Abortion is healthcare—decisions about pregnancy belong to women, not politicians.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—abortion access is essential healthcare. Trust women’s lived experiences and medical experts, not politicians, on pregnancy decisions."
+  },
+  {
+    "tweet": "Banning abortion doesn’t stop it, it only makes it more dangerous for those most vulnerable.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Banning abortion doesn’t end abortion—it drives it underground and endangers the most vulnerable. Evidence, compassion, and access save lives."
+  },
+  {
+    "tweet": "Everyone deserves the right to control their own body and reproductive future.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—protecting the right to control one’s own body and reproductive future is fundamental to freedom, health, and equality. #ReproductiveRights #BodilyAutonomy"
+  },
+  {
+    "tweet": "Forced birth is not freedom—true liberty includes the right to choose.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Standing with you—opposing forced birth is defending freedom. True liberty demands safeguarding bodily autonomy and the right to choose for everyone."
+  },
+  {
+    "tweet": "Protecting abortion rights is essential to gender equality and human dignity.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—defending abortion rights is central to gender equality, ensuring everyone can decide their own future and live with true human dignity."
+  },
+  {
+    "tweet": "Every unborn child has a right to life—abortion ends a beating heart.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Honoring the right to life means valuing the living as well as the unborn child—safe, legal abortion saves lives and supports families, and compassion, not control, is at the beating heart of real justice."
+  },
+  {
+    "tweet": "Protecting the most vulnerable should include protecting the unborn.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—protecting the unborn means ensuring expectant mothers have access to quality healthcare, nutrition, safe housing, and paid leave, so every child arrives healthy and supported. Defending the most vulnerable can’t stop at birth; it starts long before and continues after."
+  },
+  {
+    "tweet": "Abortion isn’t healthcare; it’s the deliberate ending of a human life.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Abortion is healthcare; protecting it respects bodily autonomy and supports individuals in making the best decisions for their own human life and wellbeing."
+  },
+  {
+    "tweet": "We can support women without ending innocent lives—choose life and real support.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "True support for women means ensuring access to healthcare, childcare, and economic security—protecting innocent lives requires comprehensive social policies and real support beyond slogans."
+  },
+  {
+    "tweet": "A society that values life must stand against the normalization of abortion.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "A society that values life must also honor the life, health and autonomy of women. Comprehensive sex ed, contraception access and strong social support lower abortion rates more effectively than bans. Choose compassion over control. #ReproductiveRights"
+  },
+  {
+    "tweet": "Expanding the Affordable Care Act means more Americans get the care they need without going broke.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—expanding the Affordable Care Act gives millions of Americans reliable access to care and shields families from crushing medical bills. Health and financial security should go hand in hand. #AffordableCareAct #Healthcare"
+  },
+  {
+    "tweet": "Healthcare is a human right, not a privilege—ACA expansion brings us closer to that goal.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—ACA expansion means more families get the coverage they deserve. Strengthening the Affordable Care Act moves us toward true universal Healthcare and honors the principle that health is a human right for everyone, not just the privileged."
+  },
+  {
+    "tweet": "Preventive care saves lives and money—ACA expansion ensures earlier access for millions.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—ACA expansion shows that prioritizing preventive care cuts long-term costs and keeps millions healthier. Earlier access to screenings and wellness visits strengthens families, communities, and the economy. Let’s keep this life-saving momentum going."
+  },
+  {
+    "tweet": "The ACA has reduced the uninsured rate—expanding it builds on that success.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—ACA’s success is clear: the uninsured rate plummeted, giving millions the coverage and peace of mind they deserve. Expanding it keeps that momentum, protecting more families and strengthening our health system for all."
+  },
+  {
+    "tweet": "A stronger ACA means a healthier, more secure America for everyone.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—bolstering the ACA keeps America healthier and more secure, ensuring every family gets the coverage and peace of mind they deserve."
+  },
+  {
+    "tweet": "Free-market competition in healthcare drives innovation, lowers costs, and improves quality.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Free-market competition in healthcare can fuel innovation, yet history shows costs don’t always fall and quality can fluctuate. Pairing market forces with transparency, regulation, and universal access is essential to ensure real, equitable gains for everyone."
+  },
+  {
+    "tweet": "Government-run systems stifle choice—patients deserve options, not one-size-fits-all care.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Government-run systems can actually expand choice by guaranteeing patients access to any doctor without sky-high bills. Patients gain real options when cost isn’t a barrier, not when private insurers gatekeep. Equity over profit beats the one-size-fits-all care myth."
+  },
+  {
+    "tweet": "Letting providers compete means better service and more efficient care for consumers.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—healthy competition among providers sparks innovation, lowers costs, and delivers superior service and care that truly put consumers first."
+  },
+  {
+    "tweet": "Market-driven healthcare empowers patients, not bureaucrats, to make decisions.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Market-driven healthcare just swaps bureaucrats for corporate executives, saddling patients with soaring costs and fewer protections."
+  },
+  {
+    "tweet": "Price transparency and competition are the real cures for rising healthcare costs.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—Price transparency, backed by real competition, empowers patients to compare and choose, forcing providers to justify every charge. That pressure can finally curb rising healthcare costs and shift the system toward value over volume."
+  },
+  {
+    "tweet": "Higher taxes on the wealthy ensure everyone pays their fair share for a functioning society.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Higher taxes on the wealthy may claim to secure a fair share for a functioning society, but without transparent, efficient spending the extra revenue risks fueling waste instead of roads, schools, and innovation."
+  },
+  {
+    "tweet": "Investing in infrastructure, education, and healthcare requires adequate public funding—higher taxes make that possible.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Higher taxes can empower public funding—let’s match them with rigorous transparency and accountability so infrastructure upgrades, education improvements, and healthcare expansions deliver real, measurable benefits to everyone."
+  },
+  {
+    "tweet": "Fair taxation reduces inequality and strengthens democracy for all.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Well said. Fair taxation is the engine that cuts inequality and fortifies democracy, making sure every community benefits from shared prosperity and equal voice. Progressive rates, loophole closures, and transparent spending are key steps toward a fairer future."
+  },
+  {
+    "tweet": "Progressive taxes fund the services that keep our communities safe, healthy, and educated.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Agreed—Progressive taxes make sure essential public services reach every corner, so our communities stay safe, healthy, and educated."
+  },
+  {
+    "tweet": "You can’t have first-class public goods with third-world tax rates—time to invest in our future.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Spot on—world-class public goods won’t materialize while we cling to third-world tax rates. If we’re serious about our future, we have to fund it. #InvestInOurFuture"
+  },
+  {
+    "tweet": "Tax cuts let hardworking Americans keep more of what they earn—fueling growth and opportunity.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "True, Tax cuts can help hardworking Americans, but if they’re skewed to the wealthiest, middle-class Americans see little benefit, while deficits grow and infrastructure, education, and healthcare—pillars of growth and opportunity—go underfunded."
+  },
+  {
+    "tweet": "Lower taxes empower small businesses to hire, expand, and innovate.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—lower taxes give small businesses the breathing room to hire talented teams, expand their reach, and innovate in ways that boost the whole economy."
+  },
+  {
+    "tweet": "Cutting taxes puts money back into the economy, not government bureaucracy.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Smart tax policy isn’t just about cutting taxes—it's ensuring the money flowing through the economy still supports roads, schools & health care without inflating government bureaucracy."
+  },
+  {
+    "tweet": "High taxes punish success—cuts reward productivity and ambition.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "High taxes can also bankroll the schools, hospitals, and roads that ignite success, productivity, and ambition; smart cuts help, but blanket cuts risk starving the very engines that keep opportunity running."
+  },
+  {
+    "tweet": "A leaner tax burden means more freedom for families to save, invest, and thrive.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—lessening the tax burden lets families keep more of their paycheck so they can save, invest, and truly thrive."
+  },
+  {
+    "tweet": "Love is love—everyone deserves the right to marry the person they love  no exceptions.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Amen! Love is love, and protecting the right to marry—no exceptions—makes our society stronger, kinder, and more just. 🌈💍"
+  },
+  {
+    "tweet": "Equality means protecting the rights of LGBTQ+ people to live and love openly.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—Equality isn’t negotiable. Standing with LGBTQ+ people and their right to live and love openly every day. 🌈✊"
+  },
+  {
+    "tweet": "Same-sex marriage is a fundamental right, not a privilege to be debated.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—Same-sex marriage embodies equality and dignity for every couple; fundamental rights aren’t bargaining chips or political talking points."
+  },
+  {
+    "tweet": "Respecting gender identity is about human dignity and personal freedom.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—honoring gender identity is a vital step toward protecting human dignity and safeguarding personal freedom for everyone."
+  },
+  {
+    "tweet": "A just society defends LGBTQ+ rights as essential to democracy and equality for all.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely. Defending LGBTQ+ rights is vital to democracy and the backbone of equality for all—this is how we build a truly just society."
+  },
+  {
+    "tweet": "Marriage is a sacred union between one man and one woman, as intended by God. Same-sex marriage undermines this divine institution.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Marriage thrives on love, commitment, and mutual respect, whoever the partners. God embodies love, so honoring Same-sex marriage enriches, not undermines, the sacredness of Marriage for every one man, one woman, and every couple devoted to one another."
+  },
+  {
+    "tweet": "Legalizing same-sex marriage erodes traditional family values, which are the foundation of a stable society.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Same-sex marriage doesn’t erode traditional family values—it honors them by extending love, commitment and responsibility to more families. A truly stable society is built when every couple has the freedom to protect and care for the ones they love."
+  },
+  {
+    "tweet": "Children deserve to be raised by a mother and a father, not two parents of the same sex. Same-sex marriage threatens this natural order.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Children flourish when surrounded by love and stability—qualities found in families with a mother and father or two parents of the same sex. Same-sex marriage doesn’t threaten the natural order; it strengthens it by expanding the circle of committed, caring homes where every child can thrive."
+  },
+  {
+    "tweet": "Same-sex marriage is a slippery slope—next, we'll be forced to accept polygamy or other deviations from traditional marriage.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Same-sex marriage is about recognizing love and equality under law between consenting adults. It doesn’t erode traditional marriage or mandate polygamy; it simply extends rights many already enjoy. Respecting one union doesn’t threaten another."
+  },
+  {
+    "tweet": "The government should not redefine marriage to appease a small minority, ignoring the beliefs of the majority who value tradition.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Government protecting marriage equality doesn’t erase tradition; it simply ensures that the commitment celebrated by the majority is also available to a small minority, affirming that civil rights aren’t subject to a vote."
+  },
+  {
+    "tweet": "Climate change is real, urgent, and driven by human activity—we must act now.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—Climate change demands decisive action today. By transforming human activity, slashing emissions, and scaling renewables, we can protect our planet and build a resilient future. Let’s turn urgency into concrete progress."
+  },
+  {
+    "tweet": "Investing in clean energy means jobs, innovation, and a livable future.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—clean energy is the smartest investment we can make. The surge of new jobs shows its economic power, innovation is flourishing across every sector, and every step brings us closer to a livable future for all."
+  },
+  {
+    "tweet": "The science is clear: we can't afford to ignore the climate crisis any longer.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—tackling the climate crisis now means accelerating renewables, protecting frontline communities, and pushing for bold emissions cuts before it’s too late. #ActOnClimate"
+  },
+  {
+    "tweet": "Rising seas, wildfires, and extreme weather are not political—they’re consequences of inaction.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely—rising seas, wildfires, and extreme weather are stark reminders that inaction carries a devastating price; we need bold climate action now, not later."
+  },
+  {
+    "tweet": "Fighting climate change is about protecting our planet, our health, and future generations.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely. Bold action on climate change today safeguards our planet, protects our health, and secures a livable world for future generations."
+  },
+  {
+    "tweet": "The climate has always changed—alarmism doesn’t equal science.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "The climate has always changed, yet science shows today’s shift is faster and human-driven; acknowledging the data and acting on it is not alarmism but responsible stewardship."
+  },
+  {
+    "tweet": "Climate policies often hurt working families while achieving little real impact.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Climate policies that invest in renewable jobs, home energy efficiency, and community transit can cut costs for working families while slashing emissions—turning bold action into real impact instead of added burdens."
+  },
+  {
+    "tweet": "Pushing green energy too fast risks our economy and national security.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Accelerating green energy will boost our economy with new jobs and innovation, while strengthening national security by cutting dependence on volatile fossil fuel imports and expanding resilient domestic clean power."
+  },
+  {
+    "tweet": "Many climate predictions have failed—why trust the next round of doomsday scenarios?",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Climate science refines predictions as data improves: satellites, paleoclimate records, and real-time observations reveal accelerating trends. Past uncertainty isn't failure; it's iteration. Ignoring updated climate predictions today invites the very doomsday scenarios we can still prevent."
+  },
+  {
+    "tweet": "We need balanced solutions, not radical climate agendas driven by fear.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Balanced solutions demand real steps: heed climate science, phase in clean energy, back workers, and safeguard communities. Dismissing urgent action as “radical climate agendas” stalls progress—true balance lies in decisive, evidence-based action that benefits everyone."
+  },
+  {
+    "tweet": "Black Lives Matter is a call for justice, accountability, and an end to systemic racism.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly—Black Lives Matter keeps shining a light on the urgent fight for justice and accountability, pushing us all to dismantle systemic racism wherever it persists."
+  },
+  {
+    "tweet": "Supporting BLM means standing against police brutality and inequality in all forms.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—standing with BLM is a commitment to confronting police brutality and dismantling inequality wherever it exists."
+  },
+  {
+    "tweet": "Racial justice is not radical—it's necessary, and long overdue.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Exactly. Racial justice is the baseline for true democracy—long past time we turn the call into systemic change and everyday practice."
+  },
+  {
+    "tweet": "BLM uplifts voices too often silenced and demands change that benefits everyone.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Standing with BLM as it lifts silenced voices and drives the transformative change that benefits everyone—justice and equality for all communities."
+  },
+  {
+    "tweet": "Fighting for Black lives is fighting for a more just, equal, and compassionate society.",
+    "camp": "left",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Absolutely agree—centering Black lives moves us closer to the just, equal, and compassionate society we all deserve. When Black communities thrive, everyone benefits. #BlackLivesMatter"
+  },
+  {
+    "tweet": "BLM promotes division by focusing on race instead of unity—All Lives Matter is the message we should embrace.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "BLM brings vital attention to race-based injustices—acknowledging that reality is accountability, not division. All Lives Matter can’t hold true until Black lives are valued equally. Real unity is born from confronting inequality, not ignoring it."
+  },
+  {
+    "tweet": "The BLM movement is rooted in Marxist ideology, which threatens our capitalist values and freedoms.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "BLM’s fight against systemic racism and police brutality isn’t an attack on capitalist values; calling it “Marxist ideology” only diverts attention from the demand for equal freedoms for all."
+  },
+  {
+    "tweet": "BLM riots have caused destruction and chaos in our cities, hurting small businesses and communities.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "Labeling every demonstration as “BLM riots” conflates isolated violence with an overwhelmingly peaceful movement demanding justice. Tackling the systemic issues BLM raises will ultimately strengthen small businesses and communities instead of dividing them."
+  },
+  {
+    "tweet": "BLM pushes a false narrative of systemic racism, ignoring personal responsibility and individual merit.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "BLM calls attention to systemic racism documented in housing, policing, healthcare and education. Recognizing these barriers doesn’t dismiss personal responsibility or individual merit; it demands fair conditions so both can thrive."
+  },
+  {
+    "tweet": "Supporting law enforcement, not defunding them, is the real solution—BLM’s agenda undermines public safety.",
+    "camp": "right",
+    "model_variant": "GPT o3",
+    "model_actual_label": "GPT o3",
+    "response": "BLM’s call to reallocate—not abolish—police funds toward mental health, housing, and education recognizes that public safety is broader than arrests alone; real support for law enforcement means stronger communities, not blanket opposition to defunding."
+  }
+]
